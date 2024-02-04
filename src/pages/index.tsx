@@ -1,15 +1,15 @@
-import Almuerzos from "./components/Almuerzos";
-import Bebidas from "./components/Bebidas";
-import Califica from "./components/Califica";
-import DesayunosYCenas from "./components/DesayunosCenas";
-import Eventos from "./components/Eventos";
-import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
-import Postres from "./components/Postres";
-import Reserva from "./components/Reserva";
-import Servicios from "./components/Servicios";
-import Servicios2 from "./components/Servicios2";
-import RadioGroupRating from "./components/StyledRating";
+import Almuerzos from "../components/Almuerzos";
+import Bebidas from "../components/Bebidas";
+import Califica from "../components/Califica";
+import DesayunosYCenas from "../components/DesayunosCenas";
+import Eventos from "../components/Eventos";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
+import Postres from "../components/Postres";
+import Reserva from "../components/Reserva";
+import Servicios from "../components/Servicios";
+import Servicios2 from "../components/Servicios2";
+import RadioGroupRating from "../components/StyledRating";
 
 export default function Home() {
   return (

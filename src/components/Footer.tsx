@@ -47,18 +47,7 @@ export default function Footer(props3: any) {
             </div>
             <div className="flex flex-col ml-5 w-[19%] max-md:ml-0 max-md:w-full">
               <div className="flex flex-col justify-center self-stretch py-2 my-auto max-md:mt-10">
-                <div className="flex gap-2 justify-between pr-20 max-md:pr-5">
-                  <img
-                    loading="lazy"
-                    src="https://cdn.builder.io/api/v1/image/assets/TEMP/a6a1033cd6ca67ebcf06739ec6e4595eda4c2dd8706e61e21d7b580c22f46c6d?apiKey=b2532992aefc4e05991fe44dcfd8703f&"
-                    className="w-8 aspect-square"
-                  />
-                  <img
-                    loading="lazy"
-                    src="https://cdn.builder.io/api/v1/image/assets/TEMP/2896cb9bb6140a36b6979ca83ef9662bc591e1269858362754844f70d957abca?apiKey=b2532992aefc4e05991fe44dcfd8703f&"
-                    className="w-8 aspect-square"
-                  />
-                </div>
+                <div className="flex gap-2 justify-between pr-20 max-md:pr-5"></div>
                 <div className="mt-2 text-xl font-bold text-white">
                   asdasd@asd.com
                 </div>
